@@ -8797,6 +8797,13 @@ test_cases:
     patch: '4951'
     patch_minor: '41'
 
+  - user_agent_string: 'Mozilla/5.0 (Linux; Android 9; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36 (Ecosia android@101)'
+    family: 'Ecosia Android'
+    major: '101'
+    minor: 
+    patch: 
+    patch_minor:
+
   - user_agent_string: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 MullvadBrowser/102.13.0'
     family: 'MullvadBrowser'
     major: '102'
